@@ -1,0 +1,28 @@
+main{
+    gap:20px;
+    padding: 90px;
+    padding-right: 70px;
+}
+
+.articleHockey, .logotipo{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 15px;
+}
+
+.articleHockey{
+    width: 70vw;
+}
+
+.logotipo img{
+    width: 150px;
+    height: 150px;
+}
+
+.linkMail{
+    color: #000000;
+    background: none;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 14px;
+}

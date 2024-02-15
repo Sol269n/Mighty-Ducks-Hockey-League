@@ -1,0 +1,36 @@
+section dt, span{
+    font-weight: bold;
+}
+
+dd{
+    padding-top: 10px;
+}
+
+.listaOrdenada li{
+    padding-top: 10px;
+}
+
+.ol_letras li{
+    list-style-type: lower-alpha;
+    padding-top: 0;
+}
+
+ul{
+    padding-left: 50px;
+}
+
+ol{
+    padding-left: 15px;
+}
+
+main{
+    gap:20px;
+    padding: 90px;
+    padding-right: 70px;
+}
+
+div{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(199, 199, 199);
+}
+
